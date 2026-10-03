@@ -59,36 +59,36 @@
  "bans": [
   {
    "id": "b1",
-   "t": "Donna Bella",
-   "s": "Moda feminina com elegância e delicadeza",
-   "bb": "Ver novidades",
-   "img": "",
-   "cat": "s/nv"
+   "t": "",
+   "s": "",
+   "bb": "",
+   "img": "fotos/musgc2m3o4x4.jpg",
+   "cat": ""
   }
  ],
  "prods": [
   {
-   "id": "pmusifh43",
-   "n": "Calça cargo",
-   "c": "c1",
-   "p": 150,
-   "pp": 90,
-   "d": "",
-   "i": "",
-   "m": "",
    "ph": [],
-   "st": 1,
-   "fl": {
-    "nv": 1,
-    "lc": 0,
-    "mv": 1
-   },
    "sz": {
     "P": 1,
     "M": 1,
     "G": 1
    },
-   "cl": []
+   "cl": [],
+   "i": "",
+   "m": "",
+   "d": "",
+   "pp": 90,
+   "st": 1,
+   "id": "pmusifh43",
+   "n": "Calça cargo",
+   "c": "c1",
+   "p": 150,
+   "fl": {
+    "nv": 1,
+    "mv": 1,
+    "lc": 0
+   }
   },
   {
    "ph": [],
